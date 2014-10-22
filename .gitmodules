@@ -1,0 +1,6 @@
+[submodule "ideino"]
+	path = ideino
+	url = https://github.com/ideino/ideino-linino
+[submodule "ideino-workspace"]
+	path = ideino-workspace
+	url = https://github.com/ideino/ideino-linino-examples
