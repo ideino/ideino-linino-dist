@@ -12,6 +12,7 @@ export PATH=/usr/bin:/bin:/sbin:/opt/usr/bin
 export NODEJS=/opt/usr/bin/node
 export LD_LIBRARY_PATH=/opt/usr/lib
 export NPM=/opt/usr/bin/npm
+export NODE_PATH=/usr/lib/node_modules:/opt/usr/lib/node_modules:$NODE_PATH
 
 START=99
 
