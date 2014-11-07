@@ -17,7 +17,7 @@ export LD_LIBRARY_PATH=/opt/usr/lib
 export NPM=/opt/usr/bin/npm
 export NODE_PATH=/usr/lib/node_modules:/opt/usr/lib/node_modules:$NODE_PATH
 
-CONFIG_FILE=/opt/ideino-linino/autorun/autorun.conf
+CONFIG_FILE=/opt/ideino-autorun/autorun.conf
 
 boot () {
     start
