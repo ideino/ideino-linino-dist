@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ps www | grep '[i]deino' | awk {'print $1'} | xargs kill -9 > /dev/null 2>&1
 
